@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38e5e936-029e-4cf7-8d54-b27d07c9e6dc" name="Default" comment="" />
+    <list default="true" id="fab925e8-9c6c-4005-bdef-b41ac6eb1ac9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,30 +12,45 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+      <file leaf-file-name="Practica2.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practica2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="419">
+              <caret line="410" column="5" lean-forward="false" selection-start-line="410" selection-start-column="5" selection-end-line="410" selection-end-column="5" />
+              <folding>
+                <element signature="n#!!block;n#practica2#0" expanded="false" />
+                <element signature="n#!!block;n#fun1#0" expanded="false" />
+                <element signature="n#!!block;n#fun2#0" expanded="false" />
+                <element signature="n#!!block;n#fun3#0" expanded="false" />
+                <element signature="n#!!block;n#fun4#0" expanded="false" />
+                <element signature="n#!!block;n#fun5#0" expanded="false" />
+                <element signature="n#!!block;n#fun6#0" expanded="false" />
+                <element signature="n#!!block;n#fun7#0" expanded="false" />
+                <element signature="n#!!block;n#fun8#0" expanded="false" />
+                <element signature="n#!!block;n#fun9#0" expanded="false" />
+                <element signature="n#!!block;n#fun10#0" expanded="false" />
+                <element signature="n#!!block;n#fun11#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>date</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,13 +58,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/_site/style.css" />
-        <option value="$PROJECT_DIR$/_site/index.html" />
-        <option value="$PROJECT_DIR$/_site/about/index.html" />
-        <option value="$PROJECT_DIR$/about.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Practica2.html" />
+        <option value="$PROJECT_DIR$/Practica2.js" />
       </list>
     </option>
   </component>
@@ -58,10 +71,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-145" />
+    <option name="y" value="501" />
     <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -85,8 +98,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Raiz" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -100,34 +114,107 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="38e5e936-029e-4cf7-8d54-b27d07c9e6dc" name="Default" comment="" />
-      <created>1537526159231</created>
+      <changelist id="fab925e8-9c6c-4005-bdef-b41ac6eb1ac9" name="Default" comment="" />
+      <created>1537256212768</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1537526159231</updated>
-      <workItem from="1537526160387" duration="5040000" />
-      <workItem from="1538030915885" duration="62000" />
+      <updated>1537256212768</updated>
+      <workItem from="1537256214004" duration="4554000" />
+      <workItem from="1537261151850" duration="9466000" />
+      <workItem from="1537272648725" duration="32000" />
+      <workItem from="1537337938284" duration="13150000" />
+      <workItem from="1537424240219" duration="1234000" />
+      <workItem from="1537943294525" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5102000" />
+    <option name="totallyTimeSpent" value="28450000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-145" y="501" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.061979167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09947917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -136,89 +223,165 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/Practica2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#practica2#0" expanded="false" />
+            <element signature="n#!!block;n#fun1#0" expanded="false" />
+            <element signature="n#!!block;n#fun2#0" expanded="false" />
+            <element signature="n#!!block;n#fun3#0" expanded="false" />
+            <element signature="n#!!block;n#fun4#0" expanded="false" />
+            <element signature="n#!!block;n#fun5#0" expanded="false" />
+            <element signature="n#!!block;n#fun6#0" expanded="false" />
+            <element signature="n#!!block;n#fun7#0" expanded="false" />
+            <element signature="n#!!block;n#fun8#0" expanded="false" />
+            <element signature="n#!!block;n#fun9#0" expanded="false" />
+            <element signature="n#!!block;n#fun10#0" expanded="false" />
+            <element signature="n#!!block;n#fun11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practica2.html" />
+    <entry file="file://$PROJECT_DIR$/Practica2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2907">
+          <caret line="171" column="1" lean-forward="true" selection-start-line="171" selection-start-column="1" selection-end-line="171" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#practica2#0" expanded="false" />
+            <element signature="n#!!block;n#fun1#0" expanded="false" />
+            <element signature="n#!!block;n#fun2#0" expanded="false" />
+            <element signature="n#!!block;n#fun3#0" expanded="false" />
+            <element signature="n#!!block;n#fun4#0" expanded="false" />
+            <element signature="n#!!block;n#fun5#0" expanded="false" />
+            <element signature="n#!!block;n#fun6#0" expanded="false" />
+            <element signature="n#!!block;n#fun7#0" expanded="false" />
+            <element signature="n#!!block;n#fun8#0" expanded="false" />
+            <element signature="n#!!block;n#fun9#0" expanded="false" />
+            <element signature="n#!!block;n#fun10#0" expanded="false" />
+            <element signature="n#!!block;n#fun11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practica2.html" />
+    <entry file="file://$PROJECT_DIR$/Practica2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#practica2#0" expanded="false" />
+            <element signature="n#!!block;n#fun1#0" expanded="false" />
+            <element signature="n#!!block;n#fun2#0" expanded="false" />
+            <element signature="n#!!block;n#fun3#0" expanded="false" />
+            <element signature="n#!!block;n#fun4#0" expanded="false" />
+            <element signature="n#!!block;n#fun5#0" expanded="false" />
+            <element signature="n#!!block;n#fun6#0" expanded="false" />
+            <element signature="n#!!block;n#fun7#0" expanded="false" />
+            <element signature="n#!!block;n#fun8#0" expanded="false" />
+            <element signature="n#!!block;n#fun9#0" expanded="false" />
+            <element signature="n#!!block;n#fun10#0" expanded="false" />
+            <element signature="n#!!block;n#fun11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practica2.html" />
+    <entry file="file://$PROJECT_DIR$/Practica2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="137" column="0" lean-forward="true" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#practica2#0" expanded="false" />
+            <element signature="n#!!block;n#fun1#0" expanded="false" />
+            <element signature="n#!!block;n#fun2#0" expanded="false" />
+            <element signature="n#!!block;n#fun3#0" expanded="false" />
+            <element signature="n#!!block;n#fun4#0" expanded="false" />
+            <element signature="n#!!block;n#fun5#0" expanded="false" />
+            <element signature="n#!!block;n#fun6#0" expanded="false" />
+            <element signature="n#!!block;n#fun7#0" expanded="false" />
+            <element signature="n#!!block;n#fun8#0" expanded="false" />
+            <element signature="n#!!block;n#fun9#0" expanded="false" />
+            <element signature="n#!!block;n#fun10#0" expanded="false" />
+            <element signature="n#!!block;n#fun11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practica2.html" />
+    <entry file="file://$PROJECT_DIR$/Practica2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#practica2#0" expanded="false" />
+            <element signature="n#!!block;n#fun1#0" expanded="false" />
+            <element signature="n#!!block;n#fun2#0" expanded="false" />
+            <element signature="n#!!block;n#fun3#0" expanded="false" />
+            <element signature="n#!!block;n#fun4#0" expanded="false" />
+            <element signature="n#!!block;n#fun5#0" expanded="false" />
+            <element signature="n#!!block;n#fun6#0" expanded="false" />
+            <element signature="n#!!block;n#fun7#0" expanded="false" />
+            <element signature="n#!!block;n#fun8#0" expanded="false" />
+            <element signature="n#!!block;n#fun9#0" expanded="false" />
+            <element signature="n#!!block;n#fun10#0" expanded="false" />
+            <element signature="n#!!block;n#fun11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/p.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="299" column="36" lean-forward="true" selection-start-line="299" selection-start-column="36" selection-end-line="299" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practica2.html" />
+    <entry file="file://$PROJECT_DIR$/_site/assets/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.scss">
+    <entry file="file://$PROJECT_DIR$/Practica2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/psalexps/_config.yml" />
-    <entry file="file://$PROJECT_DIR$/Gemfile.lock" />
-    <entry file="file://$PROJECT_DIR$/Gemfile" />
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/index.html" />
-    <entry file="file://$PROJECT_DIR$/_site/style.css" />
-    <entry file="file://$PROJECT_DIR$/_site/about/index.html" />
-    <entry file="file://$PROJECT_DIR$/_site/robots.txt" />
-    <entry file="file://$PROJECT_DIR$/_site/Hello-World/index.html" />
-    <entry file="file://$PROJECT_DIR$/_site/feed.xml" />
-    <entry file="file://$PROJECT_DIR$/_site/sitemap.xml" />
-    <entry file="file://$PROJECT_DIR$/_includes/meta.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2014-3-3-Hello-World.md" />
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="419">
+          <caret line="410" column="5" lean-forward="false" selection-start-line="410" selection-start-column="5" selection-end-line="410" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!block;n#practica2#0" expanded="false" />
+            <element signature="n#!!block;n#fun1#0" expanded="false" />
+            <element signature="n#!!block;n#fun2#0" expanded="false" />
+            <element signature="n#!!block;n#fun3#0" expanded="false" />
+            <element signature="n#!!block;n#fun4#0" expanded="false" />
+            <element signature="n#!!block;n#fun5#0" expanded="false" />
+            <element signature="n#!!block;n#fun6#0" expanded="false" />
+            <element signature="n#!!block;n#fun7#0" expanded="false" />
+            <element signature="n#!!block;n#fun8#0" expanded="false" />
+            <element signature="n#!!block;n#fun9#0" expanded="false" />
+            <element signature="n#!!block;n#fun10#0" expanded="false" />
+            <element signature="n#!!block;n#fun11#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
